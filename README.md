@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman 
+- 👋 Hi, I’m Aman Gupta
 - 👀 I’m currently pursuing PhD in astroparticle physics. Specially, I am interested in neutrino physics and dark matter.
 - 💞️ I would love to collaborate on solving the unknown issues in neutrino physics and I am also keen to learn new things. 
 - 📫 Contact me at: amann16.iitr@gmail.com 
